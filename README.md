@@ -20,16 +20,16 @@ An interactive **Power BI dashboard** built using a real-world job dataset. This
 
 | File Name                              | Description                        |
 |----------------------------------------|------------------------------------|
-| `2025_Job_Market_Dashboard.pbix`       | Power BI dashboard file            |
-| `Job_Market_Dataset.csv`               | Cleaned dataset (for Power BI)     |
-| `2025_Job_Market_Breakdown_Logo.png`   | Neon-style dashboard logo          |
-| `Dashboard_Screenshot.png`             | Dashboard preview image            |
+| `IT JOBS.pbix`                         | Power BI dashboard file            |
+| `data.csv`                             | Cleaned dataset (for Power BI)     |
+| `logo job.png`                         | Neon-style dashboard logo          |
+| `pic`                                  | Dashboard preview image            |
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview](pic.png)
 
 ---
 
