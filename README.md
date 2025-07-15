@@ -29,7 +29,7 @@ An interactive **Power BI dashboard** built using a real-world job dataset. This
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](pic.png)
+![Dashboard Preview](pic)
 
 ---
 
